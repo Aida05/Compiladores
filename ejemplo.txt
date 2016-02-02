@@ -1,0 +1,2 @@
+int entero 12
+float 2.12.
